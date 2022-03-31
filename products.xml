@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<produse>
+    <produs>
+        <disponibilitate>false</disponibilitate>
+        <nume>Paracetamol</nume>
+        <producator>MedPharma</producator>
+        <id>10</id>
+        <pret>19.28</pret>
+        <cantitate>10</cantitate>
+        <valabilitate>2023-05-06</valabilitate>
+    </produs>
+    <produs>
+        <disponibilitate>true</disponibilitate>
+        <nume>Algocalmin</nume>
+        <producator>PharmaRO</producator>
+        <id>51</id>
+        <pret>12.99</pret>
+        <cantitate>50</cantitate>
+        <valabilitate>2025-01-01</valabilitate>
+    </produs>
+    <produs>
+        <disponibilitate>true</disponibilitate>
+        <nume>Paracetamol</nume>
+        <producator>MedSan</producator>
+        <id>12</id>
+        <pret>17.0</pret>
+        <cantitate>15</cantitate>
+        <valabilitate>2024-03-04</valabilitate>
+    </produs>
+    <produs>
+        <disponibilitate>true</disponibilitate>
+        <nume>Tusin</nume>
+        <producator>ProdPh</producator>
+        <id>167</id>
+        <pret>18.0</pret>
+        <cantitate>12</cantitate>
+        <valabilitate>2023-10-09</valabilitate>
+    </produs>
+    <produs>
+        <disponibilitate>true</disponibilitate>
+        <nume>Test Covid</nume>
+        <producator>MedPharma</producator>
+        <id>1</id>
+        <pret>11.99</pret>
+        <cantitate>100</cantitate>
+        <valabilitate>2025-03-04</valabilitate>
+    </produs>
+</produse>

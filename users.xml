@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<utilizatori>
+    <utilizator>
+        <rol>administrator</rol>
+        <username>Bianca15</username>
+        <parola>12345</parola>
+        <nume>Malaescu Bianca</nume>
+        <id_farmacie>66</id_farmacie>
+    </utilizator>
+    <utilizator>
+        <rol>administrator</rol>
+        <username>administrator_01</username>
+        <parola>123456</parola>
+        <nume>Muresan Anca</nume>
+        <id_farmacie>11</id_farmacie>
+    </utilizator>
+    <utilizator>
+        <rol>angajat</rol>
+        <username>angajat_01</username>
+        <parola>1234</parola>
+        <nume>Malaescu Bianca</nume>
+        <id_farmacie>33</id_farmacie>
+    </utilizator>
+    <utilizator>
+        <rol>angajat</rol>
+        <username>angajat10000</username>
+        <parola>1111</parola>
+        <nume>Pop Vasile</nume>
+        <id_farmacie>12</id_farmacie>
+    </utilizator>
+</utilizatori>
